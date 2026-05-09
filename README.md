@@ -19,4 +19,4 @@ This project analyzes sales data for 3 products across 6 months and 4 regions.
 - Total Units Sold: 1,090
 
 ## Files
-- sales_analysis.xlsx : Raw data and analysis with charts
+- sales_analysis.xlsx  : Raw data and analysis with charts
